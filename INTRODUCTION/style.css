@@ -1,0 +1,31 @@
+
+/**nav bar**/
+.nav-bar{
+    margin: 0%;
+    border: 0cap;
+}
+
+/**all header**/
+h1 {
+border-radius: 5px;
+text-align: center;
+font-family: 'Times New Roman', Times, serif;
+}
+/**universal**/
+*{
+    font-family: Arial, 'Arial Narrow',  sans-serif;
+    border:border-box ;
+    background-color:bisque;
+    background-image:url(czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjU0NmJhdGNoMy1teW50LTM0LWJhZGdld2F0ZXJjb2xvcl8xLmpwZw.webp) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/**table**/
+.row-2{
+    color: #551a8b;
+}
+/**link**/
+.link {
+    color: #551a8b;
+}
+/****/
